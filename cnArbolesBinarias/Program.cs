@@ -23,6 +23,7 @@ namespace cnArbolesBinarias
     {
         static void Main(string[] args)
         {
+            console.write("gaaaaaaaaaaaa")
         }
     }
 }
